@@ -8,7 +8,7 @@
   text-decoration: none;
   outline: none;
   border: none;
-  text-transform: capitalize;
+  text-transform:none;
   transition: all 0.2s linear;
 }
 html {
@@ -1111,7 +1111,7 @@ form .button-area {
   background: transparent;
   transform: scale(0.98);
   border: 0.1rem solid rgb(180, 178, 178);
-  color: #ffae00;
+  color: bl;
 }
 .footer .credit {
   padding: 1rem 0 0 0;
